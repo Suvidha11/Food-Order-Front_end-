@@ -1,0 +1,56 @@
+footer {
+    background: black;
+    padding: 12px 10px;
+    height: 50vh;
+    width: 100%;
+}
+
+.footar {
+
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    margin-top: 20px;
+
+}
+
+
+.footar ul {
+    margin: 10px 10px;
+    color: white;
+    list-style: none;
+
+
+}
+
+.footar ul li {
+
+    color: white;
+    margin: 5px 0px;
+    font-size: 20px;
+
+}
+
+.footar h5 {
+    color: white;
+    padding: 10px
+}
+
+.footar .f4 img {
+    width: 40px;
+    height: 40px;
+    padding: 8px;
+}
+
+.bottum h3 {
+    color: white;
+}
+
+.bottum h2 {
+    text-align: center;
+    color: white;
+}
+
+footer h3 {
+    font-size: 28px;
+}
